@@ -2,3 +2,4 @@
 .env
 .vs_code
 *.pyc
+*/.ipynb_checkpoints
